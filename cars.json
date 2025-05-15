@@ -1,0 +1,42 @@
+[
+  {
+    "nama": "Toyota",
+    "negara": "Jepang",
+    "imageId": "Toyota"
+  },
+  {
+    "nama": "BMW",
+    "negara": "Jerman",
+    "imageId": "BMW"
+  },
+  {
+    "nama": "Honda",
+    "negara": "Jepang",
+    "imageId": "Honda"
+  },
+  {
+    "nama": "Mercedes-Benz",
+    "negara": "Jerman",
+    "imageId": "Mercedes"
+  },
+  {
+    "nama": "Chevrolet",
+    "negara": "Amerika Serikat",
+    "imageId": "Chevrolet"
+  },
+  {
+    "nama": "Ferrari",
+    "negara": "Italia",
+    "imageId": "Ferrari"
+  },
+  {
+    "nama": "Bentley",
+    "negara": "Inggris",
+    "imageId": "Bentley"
+  },
+  {
+    "nama": "Audi",
+    "negara": "Jerman",
+    "imageId": "Audi"
+  }
+]
