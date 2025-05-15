@@ -1,0 +1,22 @@
+[
+  {
+    "nama": "Toyota",
+    "negara": "Jepang",
+    "imageId": "Toyota"
+  },
+  {
+    "nama": "BMW",
+    "negara": "Jerman",
+    "imageId": "BMW"
+  },
+  {
+    "nama": "Honda",
+    "negara": "Jepang",
+    "imageId": "Honda"
+  },
+  {
+    "nama": "Mercedes-Benz",
+    "negara": "Jerman",
+    "imageId": "Mercedes"
+  }
+]
